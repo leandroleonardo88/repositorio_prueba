@@ -1,0 +1,1 @@
+chipa = ["queso","harina","sal","agua"]
